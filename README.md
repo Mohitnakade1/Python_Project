@@ -11,11 +11,11 @@ In this work, I have Extracted the data into CSVs from APIs from Covid-19 Datase
 
 | Files/Folder| Description |
 | ------------- | ------------- |
-| **Data Folder** | This folder provides you a google drive link where you can find the Property Rental Dataset of two Canadian cities **TORONTO** and **VANCOUVER**. |
-| **Python Files** | This folder provides you Files that i used to Extract all data from APIs through Python. |
+| **Data Folder** | This folder provides you a google drive link where you can find the Extracted Tables used |
+| **Python And Sql Files** | This folder provides you Files that i used to Extract all data from APIs through Python. And SQL queries written to get insights|
 | **Excel Folder**  | This folder contains an Excel file where I have done different kinds of analysis and created different kinds of charts using the data which I have drawn from the database using SQL. |
 | **Presentation Folder**  | You can view all the insights I discovered after doing my task in a PDF file that is contained in this folder. |
-| **SQL Query** | You can find all the necessary queries in this file, along with all the information I retrieved from the database using SQL.|
+
 
 <br>
 
